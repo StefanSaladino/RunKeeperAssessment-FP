@@ -1,0 +1,47 @@
+SORTED WORDS LIST:
+
+Word: Running
+Value: 97
+
+Word: TemPlATE
+Value: 92
+
+Word: Words
+Value: 79
+
+Word: Things
+Value: 77
+
+Word: Test
+Value: 64
+
+Word: TeSt
+Value: 64
+
+Word: List
+Value: 60
+
+Word: Outa
+Value: 57
+
+Word: Put
+Value: 57
+
+Word: Out
+Value: 56
+
+Word: Here
+Value: 36
+
+Word: To
+Value: 35
+
+Word: Of
+Value: 21
+
+Word: Am
+Value: 14
+
+Word: I
+Value: 9
+
