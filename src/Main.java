@@ -31,7 +31,7 @@ public class Main {
 
         //read input from list
         //creating stream of lines from the file
-        String filePath = "..\\untitled\\src\\Word-list.txt";
+        String filePath = "..\\untitled\\src\\input.txt";
 
         try (Stream<String> lines = Files.lines(Paths.get(filePath))) {
             //processing file
@@ -60,7 +60,7 @@ public class Main {
             outputLines.add(0, "SORTED WORDS LIST:\n");
 
             // Write the output lines to "output.txt" using UTF-8 encoding.
-            Files.write(Paths.get("..\\untitled\\src\\output.txt"), outputLines, StandardCharsets.UTF_8);
+            Files.write(Paths.get("..\\untitled\\src\\input.txt"), outputLines, StandardCharsets.UTF_8);
             System.out.println("\nSorted words have been written to output.txt");
 
         } catch (Exception e) {
